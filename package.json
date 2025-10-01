@@ -1,0 +1,14 @@
+{
+  "name": "l3xenv",
+  "version": "1.0.0",
+  "description": "La nueva forma profesional, fácil y cómoda de manejar archivos .env en Node.js. Compatible con dotenv, pero mejor.",
+  "main": "l3xenv.js",
+  "types": "l3xenv.d.ts",
+  "keywords": ["env", "dotenv", "environment", "validation", "nodejs", "typescript", "profesional", "facil", "comodo"],
+  "author": "Alejo",
+  "license": "L3xen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuusuario/l3xenv.git"
+  }
+}
